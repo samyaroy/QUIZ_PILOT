@@ -6,6 +6,9 @@ This folder redirects you to the main Version 1 repo:
 
 ### Tech Stack:
 Flask (For the app)
+
 Jinja2 (For rendering HTML Templates)
+
 SQLite (For db)
+
 Bootstrap (CSS Framework)
