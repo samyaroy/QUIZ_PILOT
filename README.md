@@ -6,5 +6,5 @@ created for IITM BS Degree - Diploma Level Project [MAD I &amp; MAD II]
 Problem Statement (v1) : 
 Problem Statement (v2) :
 
-- 📘 [Version 1](./version-1/): Flask + Jinja version – [Direct link](http://github.com/22f2001443/quiz-master-app) 
-- 🚀 [Version 2](./version-2/): Full-stack version (Flask + Vue + Redis + Pinia) – [Direct link](http://github.com/22f2001443/QuizMasterV2)
+- 📘 Version 1: Flask + Jinja version – [Direct link](http://github.com/22f2001443/quiz-master-app) 
+- 🚀 Version 2: Full-stack version (Flask + Vue + Redis + Pinia) – [Direct link](http://github.com/22f2001443/QuizMasterV2)
