@@ -1,0 +1,6 @@
+[submodule "version-1"]
+	path = version-1
+	url = https://github.com/22f2001443/quiz-master-app.git
+[submodule "version-2"]
+	path = version-2
+	url = https://github.com/22f2001443/QuizMasterV2.git
